@@ -1,1 +1,3 @@
 # Hospital-Management-System
+
+# A Hospital Management System in C is a console-based application that uses structures and arrays to store and manage hospital-related data such as hospital name, city, available beds, bed price, ratings, reviews, and patient details. The system provides menu-driven functionalities to print complete hospital and patient information, sort hospitals based on bed price, number of available beds, hospital name, and ratings with reviews using simple sorting techniques, and display hospitals from a specific city in a short and clear format. This application helps in organizing hospital data efficiently and demonstrates the use of structures, functions, conditional statements, and sorting in the C programming language.
